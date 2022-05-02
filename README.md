@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋,  I'm Nimondo
 
+##I'm a learning entrepreneur and full stack javascript developer working at Redpear Communications.
+
+##Experience
+React
+React Native
+Node
+##Find me
+Linkedin
+Email
+Instagram
 <!--
 **nimondo/nimondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
