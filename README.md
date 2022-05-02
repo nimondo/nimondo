@@ -8,11 +8,8 @@
 - Angular
 - Ionic
 - Node /Express, TotalJs, NestJs
-- 
 ## Find me
-- Linkedin
-- Email
-- Instagram
+- [Linkedin](https://www.linkedin.com/in/nimondo)
 <!--
 **nimondo/nimondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
